@@ -1,7 +1,7 @@
 instagram-api
 =============
 
-js でinstagram api と通信し自分の写真を出力する
+js でinstagram api と通信し認証したアカウントの写真を出力する
 
 ```javascript
 var client_id = 'your_client_id'
